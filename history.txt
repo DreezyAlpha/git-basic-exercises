@@ -1,0 +1,279 @@
+    1  snap install spotify
+    2  snap install vlc
+    3  sudo install telegram
+    4  sudo pro attach C1xNuNV15ccZqneF5upENt935sAXJ
+    5  sudo apt-get install steam
+    6  sudo apt install mame
+    7  sudo add-apt-repository ppa
+    8  sudo app-apt-repository ppa:c.falco/mame
+    9  sudo snap install smplayer
+   10  sudo apt-get smplayer
+   11  sudo apt install smplayer
+   12  sudo add-apt-repository ppa:rvm/smplayer
+   13  sudo apt-get update
+   14  sudo apt-get install smtube
+   15  sudo apt install curl ca-certificates -y
+   16  curl https://repo.waydro.id 
+   17  curl https://repo.waydro.id | sudo bash
+   18  sudo apt install waydroid -y
+   19  sudo apt-get update && sudo apt-get upgrade && sudo apt-get dist-upgrade
+   20  echo "deb [trusted=yes] https://apt.fury.io/notion-repackaged/ /" | sudo tee /etc/apt/sources.list.d/notion-repackaged.list
+   21  sudo apt update
+   22  sudo apt install notion-app-enhanced
+   23  sudo apt install notion-app
+   24  sudo apt-get update
+   25  curl -sS https://download.spotify.com/debian/pubkey_6224F9941A8AA6D1.gpg
+   26  curl -sS https://download.spotify.com/debian/pubkey_6224F9941A8AA6D1.gpg | sudo gpg --dearmor --yes -o /etc/apt/trusted.gpg.d/spotify.gpg
+   27  echo "deb https://repository.spotify.com stable non-free" | sudo tee /etc/apt/sources.lists.d/spotify.list
+   28  sudo apt-get update && sudo apt-get install spotify-client
+   29  sudo snap remove spotify
+   30  sudo apt-get install spotify
+   31  sudo dpkg -i r-quick-share_${VERSION}_amd64.deb
+   32  sudo apt-get update && sudo apt-get install spotify-client
+   33  sudo apt-get update spotify
+   34  apt remove spotify
+   35  sudo apt remove spotify
+   36  sudo snap install spotify
+   37  sudo apt remove notion
+   38  sudo apt autoupdate
+   39  sudo apt remove Notion
+   40  cd /home/Downloads/install/pycharm-community-2024.1.3/bin
+   41  ./pycharm.sh
+   42  cd Downloads
+   43  cd Downloads/install
+   44  add-apt-repository ppa:git-core/ppa
+   45  sudo add-apt-repository ppa:git-core/ppa
+   46  sudo apt update; apt install git
+   47  y
+   48  Y
+   49  sudo apt-get install git
+   50  ./pycharm.sh
+   51  sudo apt-get remove notion
+   52  sudo apt autoremove
+   53  sudo apt-get purge Waydroid
+   54  /bin/python "/home/dreezyalpha/Documents/Bootcamp/Test 01.py"
+   55  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/Test 01.py"
+   56  /bin/python /home/dreezyalpha/.vscode/extensions/ms-python.python-2024.8.1/python_files/printEnvVariablesToFile.py /home/dreezyalpha/.vscode/extensions/ms-python.python-2024.8.1/python_files/deactivate/bash/envVars.txt
+   57  ./Miniconda3-latest-Linux-x86_64.sh
+   58  bash /home/Downloads
+   59  bash /home/Downloads/Miniconda3-latest-Linux-x86_64.sh
+   60  bash Miniconda3-latest-Linux-x86_64.sh
+   61  bash Minicaonda-latest-Linux-x86_64.sh
+   62  conda list
+   63  /bin/python /home/dreezyalpha/.vscode/extensions/ms-python.python-2024.8.1/python_files/printEnvVariablesToFile.py /home/dreezyalpha/.vscode/extensions/ms-python.python-2024.8.1/python_files/deactivate/bash/envVars.txt
+   64  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/Test 02.py"
+   65  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/Test 02.py"/home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/Test 02.py"
+   66  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/Test 02.py"
+   67  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/Test 02.py"/home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/Test 02.py"/home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/Test 02.py"
+   68  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/Test 02.py"
+   69  pip --version
+   70  pip install black
+   71  black {source_file_or_directory}
+   72  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/Test 02.py"
+   73  /bin/python /home/dreezyalpha/.vscode/extensions/ms-python.python-2024.8.1/python_files/printEnvVariablesToFile.py /home/dreezyalpha/.vscode/extensions/ms-python.python-2024.8.1/python_files/deactivate/bash/envVars.txt
+   74  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/Coding  Task 01.py"
+   75  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/Coding Task 02.py"
+   76  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/Coding  Task 01.py"/home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/Coding Task 02.py"
+   77  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/Coding Task 02.py"
+   78  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/Task 2.0.py"
+   79  lulu
+   80  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/Task 2.0.py"
+   81  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/Coding Task 02.py"/home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/Task 2.0.py"
+   82  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/Task 2.0.py"
+   83  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/Coding Task 02.py"
+   84  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/Task 2.0.py"/home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/Coding Task 02.py"
+   85  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/Coding Task 02.py"
+   86  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/Coding Task 03.py"
+   87  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/a = 0 % 2.py"
+   88  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/Coding Task 03.py"
+   89  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/CODING APTITUDE ASSESSMENT CHALLENGE/Coding Task 04.py"
+   90  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/a = 0 % 2.py"/home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/CODING APTITUDE ASSESSMENT CHALLENGE/Coding Task 04.py"
+   91  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/CODING APTITUDE ASSESSMENT CHALLENGE/Coding Task 04.py"
+   92  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python /home/dreezyalpha/Documents/Bootcamp/try.py
+   93  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/CODING APTITUDE ASSESSMENT CHALLENGE/Coding Task 05.py"
+   94  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/CODING APTITUDE ASSESSMENT CHALLENGE/Coding Task 06.py"
+   95  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/CODING APTITUDE ASSESSMENT CHALLENGE/Coding Task 05.py"
+   96  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/CODING APTITUDE ASSESSMENT CHALLENGE/Coding Task 06.py"
+   97  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/CODING APTITUDE ASSESSMENT CHALLENGE/asdass.py"
+   98  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/CODING APTITUDE ASSESSMENT CHALLENGE/Coding Task 06.py"
+   99  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/CODING APTITUDE ASSESSMENT CHALLENGE/task7.py"
+  100  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/CODING APTITUDE ASSESSMENT CHALLENGE/asdass.py"
+  101  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/CODING APTITUDE ASSESSMENT CHALLENGE/task7.py"
+  102  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/CODING APTITUDE ASSESSMENT CHALLENGE/task8.py"
+  103  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python /home/dreezyalpha/Documents/Bootcamp/asdass.py
+  104  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/CODING APTITUDE ASSESSMENT CHALLENGE/task9.py"
+  105  /bin/python /home/dreezyalpha/.vscode/extensions/ms-python.python-2024.8.1/python_files/printEnvVariablesToFile.py /home/dreezyalpha/.vscode/extensions/ms-python.python-2024.8.1/python_files/deactivate/bash/envVars.txt
+  106  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/CODING APTITUDE ASSESSMENT CHALLENGE/task1.py"
+  107  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/CODING APTITUDE ASSESSMENT CHALLENGE/task2.py"
+  108  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/CODING APTITUDE ASSESSMENT CHALLENGE/task1.py"
+  109  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/CODING APTITUDE ASSESSMENT CHALLENGE/task2.py"
+  110  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/CODING APTITUDE ASSESSMENT CHALLENGE/task3.py"
+  111  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/CODING APTITUDE ASSESSMENT CHALLENGE/task2.py"
+  112  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/CODING APTITUDE ASSESSMENT CHALLENGE/task3.py"
+  113  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/CODING APTITUDE ASSESSMENT CHALLENGE/task8.py"
+  114  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/CODING APTITUDE ASSESSMENT CHALLENGE/task1.py"
+  115  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/CODING APTITUDE ASSESSMENT CHALLENGE/task2.py"
+  116  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/CODING APTITUDE ASSESSMENT CHALLENGE/task3.py"
+  117  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/CODING APTITUDE ASSESSMENT CHALLENGE/task4.py"
+  118  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/CODING APTITUDE ASSESSMENT CHALLENGE/task3.py"
+  119  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/CODING APTITUDE ASSESSMENT CHALLENGE/task7.py"
+  120  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/CODING APTITUDE ASSESSMENT CHALLENGE/task3.py"
+  121  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/Task 2.0.py"
+  122  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/CODING APTITUDE ASSESSMENT CHALLENGE/task3.py"
+  123  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/CODING APTITUDE ASSESSMENT CHALLENGE/task4.py"
+  124  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/CODING APTITUDE ASSESSMENT CHALLENGE/task8.py"
+  125  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/CODING APTITUDE ASSESSMENT CHALLENGE/task3.py"
+  126  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/CODING APTITUDE ASSESSMENT CHALLENGE/task4.py"
+  127  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/CODING APTITUDE ASSESSMENT CHALLENGE/task3.py"
+  128  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/CODING APTITUDE ASSESSMENT CHALLENGE/task4.py"
+  129  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/CODING APTITUDE ASSESSMENT CHALLENGE/task8.py"
+  130  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/CODING APTITUDE ASSESSMENT CHALLENGE/task5.py"
+  131  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/CODING APTITUDE ASSESSMENT CHALLENGE/task7.py"
+  132  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/CODING APTITUDE ASSESSMENT CHALLENGE/task10.py"
+  133  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python /home/dreezyalpha/Documents/Bootcamp/asdass.py
+  134  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/CODING APTITUDE ASSESSMENT CHALLENGE/task10.py"
+  135  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/CODING APTITUDE ASSESSMENT CHALLENGE/task9.py"
+  136  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/CODING APTITUDE ASSESSMENT CHALLENGE/task10.py"
+  137  /bin/python /home/dreezyalpha/.vscode/extensions/ms-python.python-2024.8.1/python_files/printEnvVariablesToFile.py /home/dreezyalpha/.vscode/extensions/ms-python.python-2024.8.1/python_files/deactivate/bash/envVars.txt
+  138  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/CODING APTITUDE ASSESSMENT CHALLENGE/task10.py"
+  139  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/CODING APTITUDE ASSESSMENT CHALLENGE/task9.py"
+  140  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/Task 2.0.py"
+  141  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/CODING APTITUDE ASSESSMENT CHALLENGE/task9.py"
+  142  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/Task 2.0.py"
+  143  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/CODING APTITUDE ASSESSMENT CHALLENGE/task9.py"
+  144  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/CODING APTITUDE ASSESSMENT CHALLENGE/task6.py"
+  145  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/CODING APTITUDE ASSESSMENT CHALLENGE/task10.py"
+  146  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/CODING APTITUDE ASSESSMENT CHALLENGE/task9.py"
+  147  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/CODING APTITUDE ASSESSMENT CHALLENGE/task6.py"
+  148  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/Task 2.0.py"
+  149  /home/dreezyalpha/Documents/Bootcamp/.venv/bin/python "/home/dreezyalpha/Documents/Bootcamp/CODING APTITUDE ASSESSMENT CHALLENGE/task6.py"
+  150  ls
+  151  ls /data
+  152  ls /
+  153  ls /etc
+  154  ls /etc/perl
+  155  pwd
+  156  mkdir Learning_unix\
+  157  ls 
+  158  cd Learning_unix
+  159  mkdir Outer_directory
+  160  cd Outer_directory
+  161  mkdir Inner_directory
+  162  cd Inner_directory
+  163  cd home
+  164  pwd
+  165  ls
+  166  ls /
+  167  cd /home/ubuntu
+  168  cd /home
+  169  ls
+  170  cd dreezyalpha
+  171  cd Learning_unix
+  172  cd ..
+  173  cd ..
+  174  cd /
+  175  pwd
+  176  cd ~
+  177  pwd
+  178  cd 
+  179  pwd
+  180  cd /
+  181  cd ~/Learning_unix
+  182  cd Outer_directory
+  183  ls ../../
+  184  cd ..
+  185  ls -l /home
+  186  ls -l
+  187  ls -R
+  188  ls -l -t -r
+  189  ls -lh
+  190  cd 
+  191  man ls
+  192  cd ~/Learning_unix/Outer_directory
+  193  rmdir Inner_directory
+  194  cd ..
+  195  rmdir Outer_directory
+  196  ls
+  197  cd
+  198  cd Learning_unix/
+  199  /bin/python /home/dreezyalpha/.vscode/extensions/ms-python.python-2024.8.1/python_files/printEnvVariablesToFile.py /home/dreezyalpha/.vscode/extensions/ms-python.python-2024.8.1/python_files/deactivate/bash/envVars.txt
+  200  ls /
+  201  ..
+  202  cd ..
+  203  ls
+  204  cd dreezyalpha
+  205  ls
+  206  ls /
+  207  pwd
+  208  cd home
+  209  cd /home/
+  210  ls
+  211  cd dreezyalpha
+  212  ls
+  213  cd Learning_unix/
+  214  cd ../../
+  215  man rmdir
+  216  cd ../
+  217  sudo apt-get install git
+  218  mkdir git-basic-exercises
+  219  cd git-basic-exercises/
+  220  ls -a
+  221  git init
+  222  ls -a
+  223  git status
+  224  touch README.md
+  225  ls -a
+  226  git status
+  227  git log
+  228  git add README.md 
+  229  git status
+  230  git rm --cached README.md 
+  231  git status
+  232  git add README.md 
+  233  git status
+  234  git commit -m "initial commit"
+  235  git config --global user.email "luyandamhlungu7@gmail.com"
+  236  git config --global user.name "Luyanda Mhlungu"
+  237  git log
+  238  git status
+  239  git commit -m "initial commit"
+  240  nano README.md 
+  241  git status
+  242  git add README.md 
+  243  git status
+  244  git commit -m "second commit"
+  245  nano README.md 
+  246  git add README.md 
+  247  git commit -m "third commit"
+  248  git log
+  249  q
+  250  git status
+  251  git checkout eff4dae20526e96345125bb799c6eab2640466fe
+  252  cat README.md 
+  253  git checkout main
+  254  cat README.md 
+  255  git branch 
+  256  cat README.md 
+  257  git checkout master
+  258  cat README.md 
+  259  git branch 
+  260  git checkout -b milkshake-flavours
+  261  git branch
+  262  git checkout master
+  263  git branch
+  264  git branch milkshake-flavours 
+  265  git checkout milkshake-flavours 
+  266  nano milkshakes.md
+  267  git status
+  268  git add milkshakes.md 
+  269  git commit -m "added initial flavours"
+  270  git log
+  271  git checkout master 
+  272  git branch 
+  273  cat README.md 
+  274  git status
+  275  git branch history
+  276  git checkout history 
+  277  git log
+  278  git branch 
+  279  history > history.txt
